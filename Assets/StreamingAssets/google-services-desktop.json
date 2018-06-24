@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "186173018237-kurhoiu53ektvg1ovn9ldvj8j6jmn1a6.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9HM9q5iuAnvP8S2lHpdzyQFxTqmegnE"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:186173018237:ios:c07f6c7a04bb6cc6", 
+        "android_client_info": {
+          "package_name": "com.deeev.VRcyclingTest"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "angelhack11-7c8ce.appspot.com", 
+    "project_id": "angelhack11-7c8ce", 
+    "firebase_url": "https://angelhack11-7c8ce.firebaseio.com", 
+    "project_number": "186173018237"
+  }
+}
